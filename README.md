@@ -4,7 +4,7 @@ Este repositorio contienes las anotaciones de los code 101 y 201
 
 ## Notas de Lectura - Code 101 📘
 
-- [Sesion 1](reading-notes\101\sesion 1.md)
+- [Sesion 1](C:\Users\Marco\Desktop\101\reading-notes\101\sesion 1.md)
 - [Sesion 2](#)
 - [Sesion 3](#)
 - [Sesion 4](#)
