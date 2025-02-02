@@ -1,27 +1,29 @@
-# Marco Ccaccya Huayhuas
-Tengo 20 años y soy un apasionado de la tecnologia y el desarrolo de software  
-estoy emocionado de aprender más a cerca de este entorno.
+# Reading Notes
 
-![Imagen de Marco](https://lh3.googleusercontent.com/a/ACg8ocImBiVKQTNST8Se63mqZw3lZzMZKKKJv2Khmkricv26WK1Nzzcj=s360-c-no)
+Este repositorio contienes las anotaciones de los code 101 y 201
 
-## Tabla de Contenidos
+## Notas de Lectura - Code 101 📘
 
-1. [Introduccion al Markdown](#Introduccion)
-2. [Introduccion a GitHub](#Introduccion)
-3. [Crear una cuenta en GitHub](#Crear-cuenta-en-github)
-4. [Crear un repositorio](#Crear-repositorio-en-github)
+- [Sesion 1](#)
+- [Sesion 2](#)
+- [Sesion 3](#)
+- [Sesion 4](#)
+- [Sesion 5](#)
+- [Sesion 6](#)
+- [Sesion 7](#)
+- [Sesion 8](#)
+- [Sesion 9](#)
+- [Sesion 10](#)
 
-### Mi vision de crecimiento como desarrollador
+## Notas de Lectura - Code 201 📘
 
-Espero adquirir las habilidades y conocimientos necesarios para llevar a cabo mis  
-propios proyectos personales y empezar a ofrecer mis servicios como desarrollador.
-
-##### Mis redes:
-
-- [Mi perfil de GitHub](https://github.com/MarcoCcaccya)
-
-### Guia sobre Markdown
-
-- [Ver guia](markdown-guide.md)
-
-#Este es mi primer comentario en github
+- [Sesion 1](#)
+- [Sesion 2](#)
+- [Sesion 3](#)
+- [Sesion 4](#)
+- [Sesion 5](#)
+- [Sesion 6](#)
+- [Sesion 7](#)
+- [Sesion 8](#)
+- [Sesion 9](#)
+- [Sesion 10](#)
