@@ -1,9 +1,9 @@
 # Comandos básicos de Git:
 
-1. ```git init`` 
+1. ```git init``` 
 Inicializa un repositorio Git en la carpeta actual. Sirve para convertir una carpeta en un repositorio donde podrás versionar tus cambios.
 
-2. ```git add`` 
+2. ```git add```
 Agrega archivos al área de preparación (stage). Esto significa que estás diciendo a Git qué archivos quieres incluir en el próximo commit.
 
 3. ```git commit -m "[mensaje]"``` 
